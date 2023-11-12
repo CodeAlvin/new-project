@@ -1,0 +1,28 @@
+#border{
+    border: 1px;
+   border: solid;
+}
+td{
+    border: 1px;
+    border: solid;
+}
+th{
+    border: 1px;
+    border: solid;
+    padding: 5px;
+    background-color: red;
+}
+
+#data{
+    background-color: blue;
+}
+
+#data2{
+    background-color: yellow;
+    padding-right: 100px;
+}
+#data3{
+    background-color: yellow;
+
+}
+#data5
